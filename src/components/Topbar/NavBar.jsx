@@ -8,7 +8,7 @@ const NavBar = () => {
   <input type="checkbox" id="nav-check" />
   <div class="nav-header">
     <div class="nav-title">
-    <img src="/images/Quickfinz.png" class="logo pl-3 ml-2" />
+    <img src="/images/Quickfinz.png"  alt="logo" class="logo pl-3 ml-2" />
    
     </div>
   </div>
@@ -24,7 +24,7 @@ const NavBar = () => {
     <a href="/" target="_blank">Products</a>
 
 <div class="dropdown">
-<a className="links" href="#">Recources</a>
+<a className="links" href="/">Recources</a>
   <div class="dropdown-content">
   <a href="/uchmadhyamik">Uccha Madhyamik</a>
   <a href="/madhyamik">Madhyamik</a>

@@ -61,9 +61,7 @@ const ImageSlider = ({ slides, parentWidth }) => {
     const newIndex = isLastSlide ? 0 : currentIndex + 1;
     setCurrentIndex(newIndex);
   }, [currentIndex, slides]);
-  const goToSlide = (slideIndex) => {
-    setCurrentIndex(slideIndex);
-  };
+
   const getSlideStylesWithBackground = (slideIndex) => ({
     ...slideStyles,
     backgroundImage: `url(${slides[slideIndex].url})`,
