@@ -74,7 +74,7 @@ const Home = () => {
       <iframe src="https://player.vimeo.com/video/39822385" width="500" height="213" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
   </div>
-</div>
+  </div>
         </div>
       </section>
 
