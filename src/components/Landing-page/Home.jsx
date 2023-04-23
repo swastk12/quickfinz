@@ -4,11 +4,11 @@ import ImageSlider from "./slideshow";
 const Home = () => {
   const slides = [
     {
-      url: "https://cdn.pixabay.com/photo/2017/09/07/08/54/money-2724241__340.jpg",
+      url: "images/slide1.jpeg",
       title: "beach",
     },
     {
-      url: "https://cdn.pixabay.com/photo/2016/10/09/19/19/coins-1726618__340.jpg",
+      url: "images/slide2.jpg",
       title: "boat",
     },
     {
@@ -25,8 +25,8 @@ const Home = () => {
     },
   ];
   const containerStyles = {
-    width: "680px",
-    height: "280px",
+    width: "750px",
+    height: "300px",
     margin: "0 auto",
   };
 
@@ -38,13 +38,13 @@ const Home = () => {
             <div>
               <hr></hr>
               <div className="slide pl-5" style={containerStyles}>
-                <ImageSlider slides={slides} parentWidth={680} />
+                <ImageSlider slides={slides} parentWidth={750} />
               </div>
             </div>
           </div>
           <div class="col col-image ">
-            <div className="ccard mt-3">
-              <img src="images/7544.jpg"  alt="funny GIF" width="90%" />
+            <div className="ccard mt-3 pl-5 ml-5">
+              <img src="images/static.jpg"  alt="funny GIF" width="80%" />
             </div>
           </div>
         </div>
