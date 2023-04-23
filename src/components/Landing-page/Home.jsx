@@ -44,7 +44,7 @@ const Home = () => {
           </div>
           <div class="col col-image ">
             <div className="ccard mt-3 pl-5 ml-5">
-              <img src="images/static.jpg"  alt="funny GIF" width="80%" />
+              <img src="build/images/static.jpg"  alt="funny GIF" width="80%" />
             </div>
           </div>
         </div>
