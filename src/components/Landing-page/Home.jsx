@@ -44,17 +44,15 @@ const Home = () => {
           </div>
           <div class="col col-image ">
             <div className="ccard mt-3 pl-5 ml-5">
-              <img src="build/images/static.jpg"  alt="funny GIF" width="80%" />
+              <img src="build/images/static.jpg" alt="funny GIF" width="80%" />
             </div>
           </div>
         </div>
       </section>
 
-
-
       <section>
         <div class="grid-flex">
-         <div class="col col-text">
+          <div class="col col-text">
             <div class="banner-texts videobnr ">
               <h1>Apply for personal credit products on QUICKFINZ</h1>
               <p>
@@ -64,27 +62,29 @@ const Home = () => {
                 Our tools make it simple to track how your Droplets are
                 performing and help you to respond quickly
               </p>
-              <button className="btn">  More</button>
+              <button className="btn"> More</button>
             </div>
           </div>
 
           <div class="containeer">
-  <div class="video">
-    <div class="video__frame">
-      <iframe src="https://player.vimeo.com/video/39822385" width="500" height="213" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    </div>
-  </div>
-  </div>
+            <div class="video">
+              <div class="video__frame">
+                <iframe
+                  src="https://player.vimeo.com/video/39822385"
+                  width="500"
+                  height="213"
+                  frameborder="0"
+                  webkitallowfullscreen
+                  mozallowfullscreen
+                  allowfullscreen
+                ></iframe>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
-
-
-
-
-      <section>
-       
-      </section>
+      <section></section>
 
       <div class="container">
         <div class="row">
@@ -213,7 +213,7 @@ const Home = () => {
         <div class="grid-flex">
           <div class="col col-image">
             <div className="animation">
-              <img src="images/homeloan.png" loop="infinite" width="100%"  />
+              <img src="images/homeloan.png" loop="infinite" width="100%" />
             </div>
           </div>
 
@@ -233,26 +233,19 @@ const Home = () => {
         </div>
       </section>
 
-  
-
-
-
       <section className="bgcolor">
-
         <div class="grid-flex">
           <div class="col col-text">
             <div class="banner-texts bnrr mt-5 pt-5">
-              <h1>
-              Apply for personal credit products on QUICKFINZ
-              </h1>
+              <h1>Apply for personal credit products on QUICKFINZ</h1>
               <p>
                 <strong>
                   We make it easy to get the most out of your virtual machine.
                 </strong>{" "}
                 Our tools make it simple to track how your Droplets are
-                performing and help you to respond quickly
-                Our tools make it simple to track how your Droplets are
-                performing and help you to respond quickly
+                performing and help you to respond quickly Our tools make it
+                simple to track how your Droplets are performing and help you to
+                respond quickly
               </p>
               <button className="btn"> MORE </button>
             </div>
@@ -266,26 +259,9 @@ const Home = () => {
         </div>
       </section>
 
-
-
-
       <section>
         <div class="cover"></div>
       </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       <section className="bgcolor">
         <div class="grid-flex">
@@ -293,16 +269,16 @@ const Home = () => {
             <div class="banner-texts bnrs pt-5 mt-5">
               <h1>
                 {" "}
-                Download App <img src="/images/Quickfinz.png"  class="logo" />
+                Download App <img src="/images/Quickfinz.png" class="logo" />
               </h1>
               <p>
                 <strong>
                   We make it easy to get the most out of your virtual machine.
                 </strong>{" "}
                 Our tools make it simple to track how your Droplets are
-                performing and help you to respond quickly
-                Our tools make it simple to track how your Droplets are
-                performing and help you to respond quickly
+                performing and help you to respond quickly Our tools make it
+                simple to track how your Droplets are performing and help you to
+                respond quickly
               </p>
               <button className="btn mt-5 "> Download Now </button>
             </div>
@@ -310,91 +286,83 @@ const Home = () => {
 
           <div class="col col-image">
             <div className="cele">
-              <img src="images/mobileapp.png" alt="funny GIF" width="80%" height= "50%" />
-          
+              <img
+                src="images/mobileapp.png"
+                alt="funny GIF"
+                width="80%"
+                height="50%"
+              />
             </div>
-        
           </div>
         </div>
       </section>
 
-
-
-
-
- 
       <section class="containers">
-    
-      <div class="cards">
-        <div class="image">
-        <img src="images/image-1.jpg" alt="" />
+        <div class="cards">
+          <div class="image">
+            <img src="images/image-1.jpg" alt="" />
+          </div>
+          <h2>Someone Name</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
+          <button className="btn"> More</button>
         </div>
-        <h2>Someone Name</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
-        <button className="btn">  More</button>
-      </div>
-      <div class="cards">
-        <div class="image">
-        <img src="images/image-2.jpg" alt="" />
+        <div class="cards">
+          <div class="image">
+            <img src="images/image-2.jpg" alt="" />
+          </div>
+          <h2>Someone Name</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
+          <button className="btn"> More</button>
         </div>
-        <h2>Someone Name</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
-        <button className="btn">  More</button>
-      </div>
-      <div class="cards">
-        <div class="image">
-        <img src="images/image-3.jpg" alt="" />
+        <div class="cards">
+          <div class="image">
+            <img src="images/image-3.jpg" alt="" />
+          </div>
+          <h2>Someone Name</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
+          <button className="btn"> More</button>
         </div>
-        <h2>Someone Name</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
-        <button className="btn">  More</button>
-      </div>
-      <div class="cards">
-        <div class="image">
-        <img src="images/image-4.jpg" alt="" />
+        <div class="cards">
+          <div class="image">
+            <img src="images/image-4.jpg" alt="" />
+          </div>
+          <h2>Someone Name</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
+          <button className="btn"> More</button>
         </div>
-        <h2>Someone Name</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
-        <button className="btn">  More</button>
-      </div>
-      <div class="cards">
-        <div class="image">
-        <img src="images/image-4.jpg" alt="" />
+        <div class="cards">
+          <div class="image">
+            <img src="images/image-4.jpg" alt="" />
+          </div>
+          <h2>Someone Name</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
+          <button className="btn"> More</button>
         </div>
-        <h2>Someone Name</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
-        <button className="btn">  More</button>
-      </div>
-      <div class="cards">
-        <div class="image">
-        <img src="images/image-5.jpg" alt="" />
+        <div class="cards">
+          <div class="image">
+            <img src="images/image-5.jpg" alt="" />
+          </div>
+          <h2>Someone Name</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
+          <button className="btn"> More</button>
         </div>
-        <h2>Someone Name</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
-        <button className="btn">  More</button>
-      </div>
-      <div class="cards">
-        <div class="image">
-        <img src="images/image-2.jpg" alt="" />
+        <div class="cards">
+          <div class="image">
+            <img src="images/image-2.jpg" alt="" />
+          </div>
+          <h2>Someone Name</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
+          <button className="btn"> More</button>
         </div>
-        <h2>Someone Name</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
-        <button className="btn">  More</button>
-      </div>
-      <div class="cards">
-        <div class="image">
-        <img src="images/image-3.jpg" alt="" />
+        <div class="cards">
+          <div class="image">
+            <img src="images/image-3.jpg" alt="" />
+          </div>
+          <h2>Someone Name</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
+          <button className="btn"> More</button>
         </div>
-        <h2>Someone Name</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
-        <button className="btn"> More</button>
-      </div>
-    </section>
-
-
-
-
-
+      </section>
 
       <section>
         <div className="mng">
@@ -529,24 +497,6 @@ const Home = () => {
           </div>
         </div>
       </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       <footer class="site-footer">
         <div class="container">
