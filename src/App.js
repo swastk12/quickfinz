@@ -8,11 +8,11 @@ import Home from "./components/Landing-page/Home";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/quickfinz">
  
         <NavBar />
         <Routes>
-          <Route path="/" exact element={<Home />} />
+          <Route path="/quickfinz" exact element={<Home />} />
 
       
         </Routes>
