@@ -44,7 +44,7 @@ const Home = () => {
           </div>
           <div class="col col-image ">
             <div className="ccard mt-3 pl-5 ml-5">
-              <img src="images/static.jpg"  width="100%" />
+              <img src="images/static.jpg"  width="125%" />
             </div>
           </div>
         </div>
