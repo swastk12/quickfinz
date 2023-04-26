@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quickfinz/static/css/main.5f780c9a.css",
+    "main.css": "/quickfinz/static/css/main.1766caa2.css",
     "main.js": "/quickfinz/static/js/main.38f98516.js",
     "static/media/Component.png": "/quickfinz/static/media/Component.920a443bfbd5c63fc552.png",
     "static/media/frame.png": "/quickfinz/static/media/frame.3809f7b064ad12c6bbda.png",
     "index.html": "/quickfinz/index.html",
-    "main.5f780c9a.css.map": "/quickfinz/static/css/main.5f780c9a.css.map",
+    "main.1766caa2.css.map": "/quickfinz/static/css/main.1766caa2.css.map",
     "main.38f98516.js.map": "/quickfinz/static/js/main.38f98516.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f780c9a.css",
+    "static/css/main.1766caa2.css",
     "static/js/main.38f98516.js"
   ]
 }
