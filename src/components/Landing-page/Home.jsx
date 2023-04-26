@@ -43,7 +43,7 @@ const Home = () => {
             </div>
           </div>
           <div class="col col-image ">
-            <div className="ccard mt-3 pl-5 ml-5">
+            <div className="ccard mt-3 pl-3 ml-3 ">
               <img src="images/static.jpg"  width="138%" />
             </div>
           </div>
