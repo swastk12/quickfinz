@@ -293,8 +293,8 @@
 @media (max-width: 640px) {
   .ccard {
     margin-top: 40px;
-    font-size: smaller;
-    padding-bottom: 150px !important;
+    font-size:xx-large;
+    padding-bottom: 90px !important;
     margin-right: 70px;
   }
 }
