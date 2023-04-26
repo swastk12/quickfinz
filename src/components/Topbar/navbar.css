@@ -63,7 +63,9 @@ background-color: rgb(74, 144, 236);
  margin-top: 6px;
  font-size:large;
  color:#f9f9f9;
-  
+}
+.joints{
+  visibility: hidden;
 }
 
   .nav > .nav-links > a {
@@ -183,5 +185,30 @@ z-index: 2;
     .nav > #nav-check:checked ~ .nav-links {
       height: calc(100vh - 50px);
       overflow-y: auto;
+    }
+
+    .nav > .nav-links > .joints{
+       visibility: visible;
+       background-color: rgb(74, 144, 236) !important;
+
+   
+     }
+     .nav > .nav-links > .join{
+      visibility: hidden;
+     }
+
+  }
+  @media (max-width:1300px) {
+    .nav > .nav-links > .join{
+
+      margin-top: -55px;
+   
+     }
+     .nav > .nav-links {
+      margin-top: -50px;
+      
+    
+   
+    
     }
   }

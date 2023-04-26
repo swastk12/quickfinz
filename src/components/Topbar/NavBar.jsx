@@ -21,8 +21,9 @@ const NavBar = () => {
   </div>
 
   <div class="nav-links pt-1">
+    <a className="joints" href="/joint">Join</a>
     <a href="/" target="_blank">Products</a>
-
+   
 <div class="dropdown">
 <a className="links" href="/">Recources</a>
   <div class="dropdown-content">
@@ -31,7 +32,7 @@ const NavBar = () => {
   <a href="/joint">Joint</a>
   <a href="/uchmadhyamik">Uccha Madhyamik</a>
   <a href="/madhyamik">Madhyamik</a>
-  <a href="/joint">Joint</a>
+  
   </div>
 </div>
 
