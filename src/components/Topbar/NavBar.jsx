@@ -8,7 +8,7 @@ const NavBar = () => {
   <input type="checkbox" id="nav-check" />
   <div class="nav-header">
     <div class="nav-title">
-    <img src="/images/Quickfinz.png"  alt="logo" class="logo pl-3 ml-2" />
+    <img src="images/Quickfinz.png"  alt="logo" class="logo pl-3 ml-2" />
    
     </div>
   </div>

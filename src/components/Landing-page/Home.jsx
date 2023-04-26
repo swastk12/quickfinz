@@ -44,7 +44,7 @@ const Home = () => {
           </div>
           <div class="col col-image ">
             <div className="ccard mt-3 pl-5 ml-5">
-              <img src="imagess/static.jpg"  width="80%" />
+              <img src="images/static.jpg"  width="80%" />
             </div>
           </div>
         </div>
@@ -269,7 +269,7 @@ const Home = () => {
             <div class="banner-texts bnrs pt-5 mt-5">
               <h1>
                 {" "}
-                Download App <img src="/images/Quickfinz.png" class="logo" />
+                Download App <img src="images/Quickfinz.png" class="logo" />
               </h1>
               <p>
                 <strong>
